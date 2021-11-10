@@ -1,10 +1,9 @@
 # This is a sample Python script.
+import tkinter
 from tkinter import HORIZONTAL
 
-import nothing as nothing
-import numpy as np
 import cv2
-import tkinter
+
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
